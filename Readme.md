@@ -1,5 +1,5 @@
 #Project Title and Description
-Innova IMDB Case Study : REST API based IMDB clone (with reduced functionality) microservice(s).
+Innova IMDB Case Study : REST API based IMDB clone (with reduced functionality).
 #Requirements
 * Copy lombok jar to eclipse directory
 
